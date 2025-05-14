@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumikehassane&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soumikehassan&show_icons=true&theme=radical" alt="GitHub stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumikehassan&theme=radical" alt="Streak stats" />
   <br>

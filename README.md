@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **ML, NLP, Public Health, or GNN-based projects**
 - 📄 Know about my work: [Portfolio Website](https://yourwebsite.com)
 - 💬 Ask me about **Bayesian methods, NLP, GNN, image segmentation**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **md.soumikehassan@gmail.com**
 - ⚡ Fun fact: I’m obsessed with making data-driven stories 🧠📊
 
 ---
@@ -34,11 +34,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soumikehassane&show_icons=true&theme=radical" alt="GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumikehassan&theme=radical" alt="Streak stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumikehassan&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/md-soumike-hassan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/SoumikeHassan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="md.soumikehassan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
